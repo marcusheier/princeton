@@ -1,0 +1,161 @@
+/* HEADER */
+
+body {
+    background-color: #d7e6f4;
+}
+
+header {
+    background-color: #353b4b;
+    margin-top: auto;
+}
+
+header h1 {
+    color: #ffffff;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    font-size: 35px;
+}
+
+header h2 {
+    color: #ffffff;
+    padding: 0px 20px 30px 20px;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+h1 {
+    color: #353b4b;
+    text-decoration: underline;
+    font-size: 55px;
+    text-align: center;
+    padding: 100px 20px 20px 20px;
+}
+
+h2 {
+    color: #353b4b;
+    text-decoration: underline;
+    font-size: 25px;
+    padding: 15px;
+}
+
+a {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+a:hover {
+    color: aqua;
+}
+
+img {
+    width: 300px;
+    border-style: solid;
+    border-color: #353b4b;
+    border-width: 1px;
+}
+
+#facebox {
+    background-color: #aabddc;
+    padding: 50px;
+}
+
+#facebox ul {
+    color: aliceblue ;
+    font-size: 20px;
+}
+
+#wrapper2 {
+    width: 600px;
+    display: block;
+    margin: auto;
+}
+
+#wrapper2 img {
+    float: left;
+    width: 320px;
+}
+
+#wrapper2 h2 {
+    text-align: center;
+}
+
+#wrapper2 li {
+    list-style: none;
+}
+
+a {
+    color: rgb(0, 64, 255);
+    font-style: initial;
+}
+
+.wrapper {
+    width: 1000px;
+    align-content: center;
+    margin: auto;
+}
+
+.wrapper a {
+    text-align: center;
+}
+
+#box1 {
+    background-color: #bbceed;
+    padding: 20px;
+}
+
+#box2 {
+    background-color: #bbceed;
+    padding: 20px;
+}
+
+#box3 {
+    background-color: #bbceed;
+    padding: 20px;
+}
+
+a {
+    font-size: 25px;
+
+}
+
+#transcripts {
+    text-align: center;
+    background-color: #aabddc;
+}
+
+#transcripts h2 {
+    font-size: 40px;
+    text-decoration: underline;
+    margin: 10px 10px;
+}
+
+#transcripts a {
+    font-style: normal;
+    font-size: 20px;
+    display: block;
+    margin: auto;
+}
+
+/*FOOTER*/
+
+footer {
+    background-color: #353b4b;
+    margin-top: auto;
+}
+
+footer ul li {
+  display: block;
+  list-style: none;
+  line-height: 30px;
+  font-weight: 500;
+}
+
+footer p {
+        color: #ffffff;
+        padding: 50px;
+        text-align: center;
+        font-size: 15px;
+        font-family: monospace;
+}
