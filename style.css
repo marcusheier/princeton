@@ -202,3 +202,26 @@ footer p {
     padding: 40px;
 }
 
+#box_spotify {
+    background-color: #bbceed;
+    padding: 20px;
+    height: 470px;
+}
+
+#box_spotify iframe {
+    float: right;
+    padding: 20px;
+}
+
+#box_spotify a {
+    float: right;
+}
+
+#box_spotify p {
+    font-size: large;
+    padding: 0px 50px 40px 40px;
+}
+
+#box_spotify h2 {
+    padding: 40px;
+}
